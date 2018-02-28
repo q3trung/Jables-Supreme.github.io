@@ -4,7 +4,7 @@ Section: Electra
 Maintainer: Jables <jables@supreme.com>
 Depends: mobilesubstrate, applist
 Architecture: iphoneos-arm
-Filename: ./debs/com.jables.wink_1.0-26_iphoneos-arm.deb
+Filename: ./debs/com.fortysixandtwo.wink_1.0-26+debug_iphoneos-arm.deb
 Size: 25272
 MD5sum:	ff031b4c64f85cef51ea0bcded649f8b
 Description: A tweak to hide your status bar.
