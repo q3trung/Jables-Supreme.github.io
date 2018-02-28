@@ -18,7 +18,7 @@ Section: Electra
 Maintainer: Jables <jables@supreme.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/applist_1.5.13
+Filename: ./debs/applist_1.5.13.deb
 Size: 145960
 MD5sum:	a246635d6757f54e1e460ef675f14a8e
 Description: AppList
@@ -32,7 +32,7 @@ Section: Electra
 Maintainer: Jables <jables@supreme.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.sassoty.glowbadge_1.3-6
+Filename: ./debs/com.sassoty.glowbadge_1.3-6.deb
 Size: 104762
 MD5sum:	58d77979600afd65fb250636cbeca1f3
 Description: Makes bages glow
