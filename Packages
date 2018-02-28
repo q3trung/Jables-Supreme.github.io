@@ -1,12 +1,12 @@
 Package: com.jables.wink
+Version: 1.0-26
 Section: iOS 11
 Maintainer: Jables <jables@supreme.com>
-Architecture: iphoneos-arm
-Version: 1.0-26
 Depends: mobilesubstrate
+Architecture: iphoneos-arm
 Filename: ./debs/com.jables.wink_1.0-26_iphoneos-arm.deb
-MD5sum:	ff031b4c64f85cef51ea0bcded649f8b
 Size: 25272
+MD5sum:	ff031b4c64f85cef51ea0bcded649f8b
 Description: A tweak to hide your status bar.
 Name: Wink
-Author: Not ME <notme@fakename.com>
+Author: Somebody Else <notme@fakename.com>
