@@ -1,0 +1,15 @@
+Origin: Jables-Supreme's Repo
+
+Label: Jables-Supreme's Repo
+
+Suite: stable
+
+Version: 1.0
+
+Codename: [name]
+
+Architecture: iphoneos-arm
+
+Components: main
+
+Description: Test repo, please ignore.
