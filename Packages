@@ -5,8 +5,8 @@ Architecture: iphoneos-arm
 Version: 1.0-26
 Depends: mobilesubstrate
 Filename: ./debs/com.jables.wink_1.0-26_iphoneos-arm.deb
+MD5sum:	ff031b4c64f85cef51ea0bcded649f8b
 Size: 25272
-Description: Wink
+Description: A tweak to hide your status bar.
 Name: Wink
-Author: name <email@email.com>
-
+Author: Not ME <notme@fakename.com>
