@@ -1,12 +1,13 @@
-Package: com.fortysixandtwo.wink
 Version: 1.0-26
+Package: com.sassoty.glowbadge
+Version: 1.3-6
 Section: Tweaks
 Maintainer: Jables <jables@supreme.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.fortysixandtwo.wink_1.0-26+debug_iphoneos-arm.deb
-Size: 25272
-MD5sum:	ff031b4c64f85cef51ea0bcded649f8b
-Description: A tweak to hide your status bar.
-Name: Wink
+Filename: ./debs/com.sassoty.glowbadge_1.3-6.deb
+Size: 104762
+MD5sum:	58d77979600afd65fb250636cbeca1f3
+Description: Makes bages glow
+Name: Glowbadge
 Author: Somebody Else <notme@fakename.com>
