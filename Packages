@@ -36,3 +36,16 @@ MD5sum:	a246635d6757f54e1e460ef675f14a8e
 Description: AppList
 Name: AppList
 Author: Somebody Else <notme@fakename.com>
+
+Package: ytpp
+Version: 1.5.13
+Section: Tweaks
+Maintainer: Jables <jables@supreme.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/ytpp_1.4r-91_iphoneos-arm.deb
+Size: 2085284
+MD5sum:	4fee99a1ddccd25fe5f736a53a3d4869
+Description: Pulled r91 files from an already updated device and injected into r76 deb. Must install uasharedresources first. 
+Name: Youtube++
+Author: Somebody Else <notme@fakename.com>
