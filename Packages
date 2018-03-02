@@ -64,7 +64,7 @@ Name: uasharedtools
 Author: Somebody Else <notme@fakename.com>
 
 Package: com.hackyouriphone.uamediaexporthelper
-Version: 2.2r-10
+Version: 1.0r-15
 Section: System
 Maintainer: Jables <jables@supreme.com>
 Depends: mobilesubstrate
@@ -72,6 +72,6 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.hackyouriphone.uamediaexporthelper_1.0r-15.deb
 Size: 29960
 MD5sum:	f52efb2ae66c617bb6ff0c99fa2f359c
-Description: Shared files. 
+Description: Media export helper. 
 Name: uamediaexporthelper
 Author: Somebody Else <notme@fakename.com>
