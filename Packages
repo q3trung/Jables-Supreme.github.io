@@ -59,6 +59,6 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.unlimapps.uasharedtools_2.2r-1.deb
 Size: 17607114
 MD5sum:	3c79e27b639983a04d938ae182c6bb03
-Description: Pulled r91 files from an already updated device and injected into r76 deb. Requires uasharedtools. 
+Description: Shared files. 
 Name: Shared resources for Youtube++
 Author: Somebody Else <notme@fakename.com>
