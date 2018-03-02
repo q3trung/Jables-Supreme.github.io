@@ -37,7 +37,7 @@ Description: AppList
 Name: AppList
 Author: Somebody Else <notme@fakename.com>
 
-Package: ytpp
+Package: com.hackyouriphone.ytpp
 Version: 1.5.13
 Section: Tweaks
 Maintainer: Jables <jables@supreme.com>
@@ -46,7 +46,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/ytpp_1.4r-91_iphoneos-arm.deb
 Size: 2085284
 MD5sum:	4fee99a1ddccd25fe5f736a53a3d4869
-Description: Pulled r91 files from an already updated device and injected into r76 deb. Must install uasharedresources first. 
+Description: Pulled r91 files from an already updated device and injected into r76 deb. requires uasharedtools. 
 Name: Youtube++
 Author: Somebody Else <notme@fakename.com>
 
@@ -60,5 +60,5 @@ Filename: ./debs/com.unlimapps.uasharedtools_2.2r-1.deb
 Size: 17607114
 MD5sum:	3c79e27b639983a04d938ae182c6bb03
 Description: Shared files. 
-Name: Shared resources for Youtube++
+Name: uasharedtools
 Author: Somebody Else <notme@fakename.com>
