@@ -37,11 +37,11 @@ Description: AppList
 Name: AppList
 Author: Somebody Else <notme@fakename.com>
 
-Package: com.hackyouriphone.ytpp
-Version: 1.5.13
+Package: com.jables.ytpp
+Version: 1.4r-91
 Section: Tweaks
 Maintainer: Jables <jables@supreme.com>
-Depends: mobilesubstrate, uasharedtools
+Depends: mobilesubstrate, uasharedtools, uamediaexporthelper, firmware (>= 10.0)
 Architecture: iphoneos-arm
 Filename: ./debs/ytpp_1.4r-91_iphoneos-arm.deb
 Size: 2085284
@@ -50,15 +50,28 @@ Description: Pulled r91 files from an already updated device and injected into r
 Name: Youtube++
 Author: Somebody Else <notme@fakename.com>
 
-Package: uasharedtools
-Version: 2.2r-1
-Section: Tweaks
+Package: com.hackyouriphone.uasharedtools
+Version: 2.2r-10
+Section: System
 Maintainer: Jables <jables@supreme.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.unlimapps.uasharedtools_2.2r-1.deb
-Size: 17607114
-MD5sum:	3c79e27b639983a04d938ae182c6bb03
+Filename: ./debs/com.hackyouriphone.uasharedtools_2.2r-10.deb
+Size: 19938206
+MD5sum:	7b2eb90d2909d881b2c831219fe16673
 Description: Shared files. 
 Name: uasharedtools
+Author: Somebody Else <notme@fakename.com>
+
+Package: com.hackyouriphone.uamediaexporthelper
+Version: 2.2r-10
+Section: System
+Maintainer: Jables <jables@supreme.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.hackyouriphone.uamediaexporthelper_1.0r-15.deb
+Size: 29960
+MD5sum:	f52efb2ae66c617bb6ff0c99fa2f359c
+Description: Shared files. 
+Name: uamediaexporthelper
 Author: Somebody Else <notme@fakename.com>
