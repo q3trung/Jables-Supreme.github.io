@@ -41,7 +41,7 @@ Package: com.hackyouriphone.ytpp
 Version: 1.4r-91
 Section: Tweaks
 Maintainer: Jables <jables@supreme.com>
-Depends: mobilesubstrate, uasharedtools, uamediaexporthelper, firmware (>= 10.0)
+Depends: mobilesubstrate, firmware (>= 10.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.hackyouriphone.ytpp_1.4r-91_iphoneos-arm.deb
 Size: 2087116
