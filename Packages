@@ -44,7 +44,7 @@ Maintainer: Jables <jables@supreme.com>
 Depends: mobilesubstrate, uasharedtools, uamediaexporthelper, firmware (>= 10.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.hackyouriphone.ytpp_1.4r-91_iphoneos-arm.deb
-Size: 2085284
+Size: 2087116
 MD5sum:	1656414b11af301a65576511737d3c30
 Description: Pulled r91 files from an already updated device and injected into r76 deb. requires uasharedtools. 
 Name: Youtube++
